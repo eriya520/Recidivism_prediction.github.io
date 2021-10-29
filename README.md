@@ -77,4 +77,4 @@
 * Next steps would be to find similar recidivism data for another state in order to compare mental health spending with incarceration rates and recidivism predictions between states.
 
 ----
-## Collaborator: Abhay A. Gabrielle C., Scott. T. Yadan T.
+## Collaborator: Abhay A., Gabrielle C., Scott. T., Yadan T. (Alphabetically ordered by last name)
