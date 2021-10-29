@@ -15,10 +15,10 @@
 ## Datasets
 |Data description|link|
 |---|---|
-|Census_incarceration_data|![link](https://observablehq.com/@themarshallproject/adults-in-correctional-facilities-from-decennial-census)|
-|Public_health_spending_data|![link](https://knoema.com/SHPCPHF2020/per-capita-public-health-funding-in-u-s-states)|
-|Mental_health_spending_data|![link](https://rehabs.com/explore/mental-health-spending-by-state-across-the-us/)|
-|Recidivism_data|![link](https://data.ojp.usdoj.gov/stories/s/daxx-hznc)|
+|Census_incarceration_data|[link](https://observablehq.com/@themarshallproject/adults-in-correctional-facilities-from-decennial-census)|
+|Public_health_spending_data|[link](https://knoema.com/SHPCPHF2020/per-capita-public-health-funding-in-u-s-states)|
+|Mental_health_spending_data|[link](https://rehabs.com/explore/mental-health-spending-by-state-across-the-us/)|
+|Recidivism_data|[link](https://data.ojp.usdoj.gov/stories/s/daxx-hznc)|
 
 ## EDA 
 
@@ -69,9 +69,12 @@
 |Baseline|57%|-|-|
 |KNN-deep|68.7%|75.2%|81.7%|
 |XGBoost|67.2%|69%|63%|
-|Random Forest|67.7%|74.9%|82.4$|
+|Random Forest|67.7%|74.9%|82.4%|
 
 
 ## Conclusions
 * Found negative or low correlation between select features (gender, age, race, etc.) and recidivism within three years.
 * Next steps would be to find similar recidivism data for another state in order to compare mental health spending with incarceration rates and recidivism predictions between states.
+
+----
+## Collaborator: Abhay A. Gabrielle C., Scott. T. Yadan T.
